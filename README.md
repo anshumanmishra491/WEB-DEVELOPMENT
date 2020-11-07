@@ -5,7 +5,7 @@ This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments
 
 <hr>
 
-<b>Assignment Links:</b> <br>
+<b>Assignment Links:</b> <br><br>
 Module 2 --- https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
 
 Module 3 --- https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md
@@ -15,7 +15,7 @@ Module 4 --- https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/as
 Module 5 --- https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md
 <br>
 
-<b>Solution Links:</b> <br>
+<b>Solution Links:</b> <br><br>
 Module 2 --- https://anshumanmishra491.github.io/WEB-DEVELOPMENT/module2_solution/module2.html
 
 Module 3 --- https://anshumanmishra491.github.io/WEB-DEVELOPMENT/module3_solution/site.html
