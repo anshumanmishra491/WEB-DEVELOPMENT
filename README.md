@@ -1,6 +1,8 @@
 # WEB-DEVELOPMENT
 HTML,CSS AND JAVASCRIPT
 
+This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera.
+
 Task Statement-->
 Module 2 --- https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
 
